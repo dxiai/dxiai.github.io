@@ -1,7 +1,7 @@
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
 # remote_theme: heliumjk/heliumjk
-remote_theme: macrod68/jekyll-materialize-starter-template
+remote_theme: janczizikow/sleek
 author: dxi
 description: > 
   data groves for students and instructors
