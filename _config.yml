@@ -1,8 +1,2 @@
-theme: jekyll-theme-minimal
-
-docs:
-  - title: Dokumente
-    url: docs/index.md
-
-  - title: Anderes
-    url: docs/other.md
+# theme: jekyll-theme-minimal
+remote_theme: heliumjk/heliumjk
