@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+docs:
+  - title: Dokumente
+    url: docs/index.md
+
+  - title: Anderes
+    url: docs/other.md
