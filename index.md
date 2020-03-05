@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ## Getting around gh pages
