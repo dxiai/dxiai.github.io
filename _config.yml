@@ -1,9 +1,9 @@
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
 # remote_theme: heliumjk/heliumjk
-remote_theme: andrewbanchich/Forty-Jekyll-Theme
+remote_theme: janczizikow/sleek
 author: dxi
-description: > 
+tagline: > 
   data groves for students and instructors
 
 twitter_username: datenXinfos
