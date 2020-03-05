@@ -2,10 +2,18 @@
 # theme: jekyll-theme-cayman
 # remote_theme: heliumjk/heliumjk
 remote_theme: janczizikow/sleek
-author: dxi
-tagline: > 
+title: dXi
+author: dxiai
+description: > 
   data groves for students and instructors
 
 twitter_username: datenXinfos
 github_username: dxiai
 
+navigation:
+  - name: Home
+    link: /
+  - name: Docs
+    link: /docs/
+  - name: Blog
+    link: /posts
