@@ -5,7 +5,7 @@ remote_theme: janczizikow/sleek
 title: daten und infomation
 author: dxiai
 description: > 
-  data groves for students and instructors
+  Resourcen, Tools und News für die tägliche Datenarbeit
 
 tagline: >
   Resourcen, Tools und News für die tägliche Datenarbeit
@@ -14,9 +14,9 @@ twitter_username: datenXinfos
 github_username: dxiai
 
 navigation:
-  - name: Home
-    link: /
-  - name: Docs
-    link: /docs/
   - name: Blog
-    link: /posts
+    link: /
+  - name: Materialien
+    link: /docs/
+  - name: Projekte
+    link: /projekte
