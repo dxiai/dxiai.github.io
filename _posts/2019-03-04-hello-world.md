@@ -3,6 +3,7 @@ layout: post
 title: Neue Information
 date: 2019-03-04
 author: Phish
+featured-img: shane-rounce-205187
 ---
 
 Dieser zweite Eintrag ist eigentlich ein gefälschter erste Eintrag. 
