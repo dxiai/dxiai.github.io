@@ -1,3 +1,4 @@
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 # remote_theme: heliumjk/heliumjk
+remote_theme: macrod68/jekyll-materialize-starter-template
