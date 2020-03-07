@@ -1,0 +1,19 @@
+remote_theme: janczizikow/sleek
+title: daten und infomation
+author: dxiai
+description: > 
+  Resourcen, Tools und News für die tägliche Datenarbeit
+
+tagline: >
+  Resourcen, Tools und News für die tägliche Datenarbeit
+
+twitter_username: datenXinfos
+github_username: dxiai
+
+navigation:
+  - name: Blog
+    link: /
+  - name: Materialien
+    link: /docs/
+  - name: Projekte
+    link: /projekte
