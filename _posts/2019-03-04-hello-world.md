@@ -11,9 +11,9 @@ categories:
 - R
 ---
 
-Stemmen und Lemmatisieren sind zwei Grundtechniken zur Datenaufbereitung von unstrukturierten Texten. Diese Techniken unterstützen uns beim bestimmen des Wortstamms von Wörtern, wobei der Wortstamm sich auf die jeweilige Grundform eines Wortes bezieht. Damit das funktioniert werden Wörterbücher (dictionaries) benötigt.
+Stemmen und Lemmatisieren sind zwei Grundtechniken zur Datenaufbereitung von unstrukturierten Texten. Diese Techniken unterstützen uns beim bestimmen des Wortstamms von Wörtern, wobei der Wortstamm sich auf die jeweilige Grundform eines Wortes bezieht. Damit das funktioniert, werden Wörterbücher (*dictionaries*) benötigt.
 
-In R nimmt uns die Arbeit für beide Techniken die `hunspell` Bibliothek ab. Speziell die Funktion `hunspell_stem` ist dabei der ideale Begleiter für die Textanalyse. Dabei kann dem folgenden Muster gefolgt werden: 
+In R nimmt uns die Arbeit für beide Techniken die [`hunspell`-Bibliothek](https://cran.r-project.org/package=hunspell) ab. Speziell die Funktion `hunspell_stem` ist dabei der ideale Begleiter für die Textanalyse. Dabei kann dem folgenden Muster gefolgt werden: 
 
 ```R
 library(tidyverse)
@@ -28,13 +28,17 @@ wortliste %>%
     mutate(stamm = ifelse(is.na(stamm), wort, stamm))
 ```
 
-Bei der Arbeit mit den deutschen Wörterbüchern ist mir aber aufgefallen, dass die Informationen für das Lemmatisieren komplett fehlt und einige Regeln für das richtige Stemmen nicht bzw. nicht vollständig umgesetzt sind. Deshalb muss für bestimmte Analysen selbst Hand angelegt werden und das Wörterbuch an die eigenen Bedürfnisse angepasst werden. 
+Die `hunspell`-Bibliothek setzt auf der [`hunspell`-Plattform](http://hunspell.github.io/) auf, die sehr modular aufgebaut ist.
+
+Bei der Arbeit mit den [deutschen Wörterbüchern](https://www.j3e.de/ispell/igerman98/dict/) ist mir aber aufgefallen, dass die Informationen für das Lemmatisieren komplett fehlt und einige Regeln für das richtige Stemmen nicht bzw. nicht vollständig umgesetzt sind. Deshalb muss für bestimmte Analysen selbst Hand angelegt werden und das Wörterbuch an die eigenen Bedürfnisse angepasst werden. 
 
 Ein `hunspell`-Wörterbuch besteht aus einer Wortliste und Genratorregeln, dem sogenannten affix. Diese beiden Teile sind in zwei Dateien abgelegt. Die Wortliste endet auf `.dic` und das Affix endet auf `.aff`, wobei der Name des Wörterbuchs für beide Dateien identisch sein muss. Ein Wörterbuch ist nur dann vollständig, wenn beide Dateien im gleichen Verzeichnis gespeichert sind. 
 
-Die Regeln des Wörterbuchs müssen in einer [eigenen Syntax](https://www.systutorials.com/docs/linux/man/4-hunspell/) ausgedrückt werden.
+Die Regeln des Wörterbuchs müssen im Affix in einer [eigenen Syntax](https://www.systutorials.com/docs/linux/man/4-hunspell/) ausgedrückt werden.
 
-In den offiziellen Wörterbüchern fehlen mit derzeit die Stemmregeln für das Perfekt mit der Vorsilbe `ge-`. Das liesse sich wahrscheinlich mit der folgenden Prefixregel in der `.aff`-Datei des Wörterbuchs realisieren: 
+### Das deutsche Perfekt und die Krux mit dem Stemmen
+
+In den offiziellen Wörterbüchern fehlen mit derzeit die Stemmregeln für das Perfekt mit der Vorsilbe `ge-`. Das liesse sich wahrscheinlich mit der folgenden Prefix-Regel in der `.aff`-Datei des Wörterbuchs realisieren: 
 
 ```
 PFX G Y 1
@@ -51,9 +55,9 @@ kaufen/BDGIVXYW
 
 Dabei ist zu beachten, dass die Buchstaben nach dem Schrägstich jeweils auf die Stemmregeln im Affix für dieses Wort verweisen.
 
-### Unregelmässige Verben
+### Unregelmässige Verben
 
-Bei unregelmässigen Verben muss der Wortstamm explizit festgelegt werden. Diese Information muss in der Wortliste, d.h. in der `.dic`-Datei, des Wörterbuchs festgehalten werden. Fall ein Wort in der gleichen Schreibweise mehrere Bedeutungen hat, müssen die Wortstämme auseinandergehalten werden, wie das folgende Beispiel zeigt: 
+Bei unregelmässigen Verben muss der Wortstamm explizit festgelegt werden. Diese Information muss in der Wortliste, d.h. in der `.dic`-Datei, des Wörterbuchs festgehalten werden. Falls ein Wort in der gleichen Schreibweise mehrere Bedeutungen hat, müssen die Wortstämme auseinandergehalten werden, wie das folgende Beispiel zeigt: 
 
 ```
 bin st:sein
@@ -70,7 +74,7 @@ warst st:sein
 wart st:sein
 ```
 
-Zusätzlich könnten mit den `is:` und `po:` Annotationen zusätzliche Hinweise zur Grammatik hinterlegt werden, die bei der Textanalyse weiter verwendet werden können. Diese Annotationen wären dann mit der  `hunspell_analyze`-Funktion zugänglich. 
+Zusätzlich könnten mit den `is:` und `po:` Annotationen zusätzliche Hinweise zur Grammatik hinterlegt werden, die bei der Textanalyse genutzt werden können. Diese Annotationen wären dann mit der  `hunspell_analyze`-Funktion zugänglich. 
 
 Hunspell erlaubt Hinweise über den Kontext einer Schreibweise, so dass die o.g. Information wie folgt aufgebaut sein könnte.
 
