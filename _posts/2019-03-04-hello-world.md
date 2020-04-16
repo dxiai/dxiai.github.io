@@ -19,8 +19,10 @@ In R nimmt uns die Arbeit für beide Techniken die `hunspell` Bibliothek ab. Spe
 library(tidyverse)
 library(hunspell)
 
+wörterbuch = "de_CH"
+
 wortliste %>%
-    mutate(stamm = hunspell_stem(wort, dict = dictionary("de_CH"))) %>%
+    mutate(stamm = hunspell_stem(wort, dict = dictionary(wörterbuch))) %>%
     mutate(stamm = lapply(stamm,nth,-1)) %>%
     unnest(stamm) %>%
     mutate(stamm = ifelse(is.na(stamm), wort, stamm))
