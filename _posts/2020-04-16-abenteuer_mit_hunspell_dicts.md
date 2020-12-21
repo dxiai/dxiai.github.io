@@ -3,8 +3,7 @@ layout: post
 title: Abenteuer mit Hunspell Wörterbüchern
 date: 2020-04-16
 author: Christian Glahn
-featured-img: shane-rounce-205187
-categories: 
+tags: 
 - textanalyse
 - nlp
 - tools
