@@ -5,4 +5,4 @@ title: Daten und Information
 
 # Digitalisierung und Umwelt
 
-Methoden, Tools und Konzepte für die digitale Zukunft. 
+Methoden, Tools und Konzepte für eine digitale Zukunft. 
