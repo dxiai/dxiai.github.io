@@ -5,7 +5,7 @@ date: 2020-04-16
 author: Christian Glahn
 tags: 
 - textanalyse
-- nlp
+- methoden
 - tools
 - R
 ---

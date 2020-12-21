@@ -10,4 +10,24 @@ tagline: >
 
 twitter_username: datenXinfos
 github_username: dxiai
-  
+
+permalink: pretty
+paginate: 10
+paginate_path: "/blog/page:num"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+      hero_darken: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      show_sidebar: true
+      hero_darken: true
