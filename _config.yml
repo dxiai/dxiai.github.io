@@ -1,4 +1,5 @@
 remote_theme: dxiai/dxiai-theme
+
 title: dxi.ai
 author: dxiai
 description: > 
@@ -9,6 +10,4 @@ tagline: >
 
 twitter_username: datenXinfos
 github_username: dxiai
-
-navigation:
   
