@@ -11,9 +11,4 @@ twitter_username: datenXinfos
 github_username: dxiai
 
 navigation:
-  - name: Blog
-    link: /
-  - name: Materialien
-    link: /docs/
-  - name: Projekte
-    link: /projekte
+  
