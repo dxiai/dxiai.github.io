@@ -31,3 +31,5 @@ defaults:
       layout: post
       show_sidebar: true
       hero_darken: true
+
+footer_menu: footer_menu
