@@ -1,3 +1,6 @@
+# ACHTUNG! Die Reihenfolge MUSS GENAU eingehalten werden, damit die Blöcke in der 
+# richtigen Reihenfolge im jeweiligen Modus erscheinen. Bulma Layouts sind nicht responsiv.
+
 - title: dxi.ai
   content: | 
     *dxi* steht für das Kreuzprodukt aus *Daten* und *Information* in den Life Sciences. Unser Team 
