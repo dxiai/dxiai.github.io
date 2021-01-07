@@ -1,6 +1,148 @@
-- name: dxi.ai
-  link: /
-- name: Imprint
-  link: imprint.md
-- name: Styleguide
-  link: /tmppages/
+# ACHTUNG! Die Reihenfolge MUSS GENAU eingehalten werden, damit die Blöcke in der 
+# richtigen Reihenfolge im jeweiligen Modus erscheinen. Bulma Layouts sind nicht responsiv.
+
+- title: dxi.ai
+  content: | 
+    *dxi* steht für das Kreuzprodukt aus *Daten* und *Information* in den Life Sciences. Unser Team 
+    interessiert sich für die Themen *Digitalisierung, Statistik und Data Science Anwendungen 
+    in unserer Umwelt* und ist Mitglied im ZHAW Datalab. Wir betreuen das Modul *Daten und Information* am Departent 
+    *Life Scices and Facility Management* der ZHAW.
+
+- links:
+  - name: Moodle
+    url: https://moodle0.zhaw.ch
+    icon: graduation-cap
+  - name: YouTube
+    url: https://www.youtube.com/channel/UCSsxNbivRRg6fNDDGcDcbGA
+    icon: youtube-play
+  - name: "@datenXinfos"
+    url: https://twitter.com/datenXinfos
+    icon: twitter
+  - name: GitHub
+    icon: github
+    url: https://github.com/dxiai
+
+
+- links:
+  - name: Team
+    link: /team/
+  - name: Imprint
+    link: /imprint.md
+  - name: Styleguide
+    link: /styleguide/
+
+
+- title: Organisation
+  extra_style: is-hidden-widescreen
+  links:
+  - name: IAS
+    url: https://www.zhaw.ch/ias/
+    icon: home
+  # - name: ICLS
+  #  url: https://www.zhaw.ch/icls/
+  #  icon: home
+  - name: ZHAW Datalab 
+    url: https://www.zhaw.ch/datalab/
+    icon: flask
+  - name: ZHAW
+    url: https://zhaw.ch
+    icon: university
+
+- title: Master of Science
+  extra_style: is-hidden-widescreen
+  links:
+  - name: Überblick
+    url: https://www.zhaw.ch/de/lsfm/studium/master-of-science-in-life-sciences/
+    icon: graduation-cap
+  - name: ACLS
+    url: https://www.zhaw.ch/en/lsfm/study/master-of-science-in-life-sciences/specialisation-applied-computational-life-sciences/
+    icon: home
+  - name: Facebook 
+    icon: facebook
+    url: https://www.facebook.com/zhawlsfm
+  - name: YouTube
+    icon: youtube-play
+    url: https://youtube.com/playlist?list=PLxeUmOKdIWGbZcPdu5tHYILib4ZxTVsAy
+
+
+- title: Master
+  content: |
+   Applied Computational \
+   Life Sciences
+  extra_style: is-hidden-touch is-hidden-desktop-only
+  links:
+  - name: Überblick
+    url: https://www.zhaw.ch/en/lsfm/study/master-of-science-in-life-sciences/specialisation-applied-computational-life-sciences/
+    icon: home
+  - name: Facebook 
+    icon: facebook
+    url: https://www.facebook.com/zhawlsfm
+  - name: YouTube
+    icon: youtube-play
+    url: https://youtube.com/playlist?list=PLxeUmOKdIWGbZcPdu5tHYILib4ZxTVsAy
+
+- title: Bachelor of Science
+  extra_style: is-hidden-widescreen
+  links:
+  # - name: B.Sc. Computational Life Sciences
+  #   url: 
+  - name: B.Sc. Facility Management
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-facility-management/
+  - name: B.Sc. Umweltingenieurwesen
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-umweltingenieurwesen/
+  - name: B.Sc. Biotechnologie
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-biotechnologie/
+  - name: B.Sc. Lebensmitteltechnologie
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-lebensmitteltechnologie/
+  - name: B.Sc. Chemie 
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-chemie/
+
+- content: |
+    ## Studier bei uns
+  extra_style: is-hidden-touch is-hidden-desktop-only
+
+- extra_style: is-hidden-touch is-hidden-desktop-only
+  links:
+  # - name: B.Sc. Computational Life Sciences
+  #   url: 
+  - name: B.Sc. Facility Management
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-facility-management/
+  - name: B.Sc. Umweltingenieurwesen
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-umweltingenieurwesen/
+
+- extra_style: is-hidden-touch is-hidden-desktop-only
+  links: 
+  - name: B.Sc. Biotechnologie
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-biotechnologie/
+  - name: B.Sc. Lebensmitteltechnologie
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-lebensmitteltechnologie/
+  - name: B.Sc. Chemie 
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-chemie/
+
+- extra_style: is-hidden-touch is-hidden-desktop-only
+  links: 
+  - name: M.Sc. Life Sciences
+    url: https://www.zhaw.ch/de/lsfm/studium/master-of-science-in-life-sciences/
+
+- content: | 
+    ## Organisation
+  extra_style: is-hidden-touch is-hidden-desktop-only
+- extra_style: is-hidden-touch is-hidden-desktop-only
+  links: 
+  - name: IAS
+    url: https://www.zhaw.ch/ias/
+    icon: home
+  # - name: ICLS
+  #  url: https://www.zhaw.ch/icls/
+  #   icon: home
+
+- extra_style: is-hidden-touch is-hidden-desktop-only
+  links:
+  - name: ZHAW Datalab 
+    url: https://www.zhaw.ch/datalab/
+    icon: flask
+- extra_style: is-hidden-touch is-hidden-desktop-only
+  links: 
+  - name: ZHAW
+    url: https://zhaw.ch
+    icon: university
