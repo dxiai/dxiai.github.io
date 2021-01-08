@@ -25,9 +25,9 @@
 
 - links:
   - name: Team
-    link: /team/
+    link: /team
   - name: Imprint
-    link: /imprint.md
+    link: /imprint
   - name: Styleguide
     link: /styleguide/
 
