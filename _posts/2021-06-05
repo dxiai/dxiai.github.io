@@ -1,0 +1,86 @@
+--- 
+layout: post
+title: MacOS für Life Sciences startklar machen
+date: 2021-06-05
+author: N Memeti
+tags: 
+- beginner
+- Studium
+- Anfänger
+- Mac
+---
+
+Neu am Mac und noch nicht alle Apps installiert? Apps sind auf dem Mac schnell installiert.
+
+In diesem Blogbeitrag beschreibe ich welche Apps / Programme ich auf meinen neuen Laptop, dem Mac OS Pro, installiere. Für das Studium im Life Sciences Bereich braucht man einen leistungsstarken Rechner und der MacOs Pro ist eine grossartige Wahl.
+
+Aber zuerst zur Hardware: Der MacBook Pro besteht aus 13-inch, 2020, Four Thunderbolt 3 ports, und einem 2.3 GHz Quad-Core Intel Core i7 Prozessor, und einer Intel Iris Plus Grafikkarte.
+
+Ein super tolles Stück für das tägliche Arbeiten. Da meine Dokumente bei OneDrive abgelegt sind, wird der Ordner beim sog. "Finder" - die Dokumentenablage bei MacOs - erstellt.
+
+Tools / Programme
+
+bei MacOS haben wir drei Stores, bei dem Software Packages herunterladen können: möglichst open-source (wie microsoft visio)
+
+Homebrew
+ZHAW Softwarecenter
+App Store
+webbrowser:
+
+AdBlock Pro
+Google Chrome
+Firefox
+Arbeitsumgebung / Produktivität (office)
+
+Adobe Acrobat Reader DC
+Zotero
+Microsoft Office (dazu gehören: Microsoft Excel, Microsoft OneNote, Microsoft Outlook, Microsoft PowerPoint, Microsoft Teams and Microsoft Word)
+Zoom.us
+OneDrive
+OmniGraffle (Grafikdarstellung, Studentenlizenz)
+Draw.io (Diagramms.net)
+Cisco Webex Meetings
+Adobe Illustrator (via Creative Cloud)
+Utility
+
+Magnet (kostenpflichtig)
+Cisco AnyConnect VPN
+Entwicklungstools
+
+Developer
+Toggl Track
+Visual Studio Code
+Xcode
+R und RStudio
+Developer
+Docker
+GitHub Desktop
+Besonderheiten am Mac
+
+Falls du auch super effizient mit dem Mac OS arbeiten willst, dann sind die Shortcuts eine grosse Hilfe. Anbei ein paar Tastaturkürzel, die ich täglich gebrauche:
+
+Viele Legenden wie die Enter-, Shift-, Esc-, Tab-, Ctrl-, Alt-, Backspace-Tasten werden dir von Windows noch bekannt vorkommen. Doch einige Tasten sind neu:
+Die  - Taste stellt die Befehlstaste dar.
+Die  - Taste stellt die Optionstaste dar.
+Die  - Taste (in meinem Fall ⌃) stellt die Kontrolltaste dar.
+Die Darstellung aller Programme kannst du mittels der Tastatur erreichen.
+
+Anbei findest du ein paar allgemeine Tastaturkürzel für den Mac OS X:
+Mit Alt-Cmd-Q meldest Du dich vom Mac ab.
+Mit Alt-Cmd-Eject bringst Du den Mac zum Ruhezustand.
+Mit Cmd-Ctrl-Eject startest Du den Mac neu.
+Mit Ctrl-Eject erscheint ein Dialogfenster "Neu starten", "Ruhezustand", "Ausschalten".
+
+Mit Cmd-Shift-3 erstellst Du am Mac einen Screenshot des kompletten Bildschirminhalts
+Mit Cmd-Shift-4 erstellst Du einen Screenshot eines ausgewählten Bereichs
+Mit Cmd-Shift-5 erstellst Du einen Screenshot vom aktivierten Fenster.
+
+oder du schaust dir diesen Beitrag auf MacWelt.de an wie Screenshoots am Mac erstellen
+
+Bilder
+
+
+
+References:
+
+https://www.macforbeginners.com
