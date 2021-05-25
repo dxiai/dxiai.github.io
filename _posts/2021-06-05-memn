@@ -60,4 +60,10 @@ Matlab
 Python
 GitHub Desktop
 
+Verbindung herstellen mit VPN
 
+1. Stellen Sie sicher, dass Sie mit dem Internet verbunden sind. Starten Sie die Anwendung Cisco AnyConnect Secure Mobility Client (VPN).
+2. Tragen Sie die Adresse ras.zhaw.ch ein und klicken Sie auf Connect.
+3. Wählen Sie die Gruppe ZHAW-Edu aus, geben Sie Ihren ZHAW Benutzernamen und Passwort ein und klicken Sie auf OK.
+
+Sie sind nun mit dem ZHAW Netzwerk verbunden.
