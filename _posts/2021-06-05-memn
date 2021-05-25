@@ -5,26 +5,30 @@ date: 2021-06-05
 author: Nurdzane Memeti
 tags: 
 - Beginner / Anfänger
+- getting started / startklar machen
 - Study / Studium
 - Macbook / MacOS / Mac
 ---
 
-Ein leiestungsfähiger Notbook eignet sich für das Life Sciences Studium sehr! Es steigert die Produktivität mit vielen coolen Applicationen, wie die Microsoft Word, Teams, Excel und Powerpoint. Weitere Programme wie zum Beispiel Adobe Acrobat Reader und vieles Mehr.  
-Leider ist es für viele Studierende am Anfang schwierig die passenden Programme für das Studium zu finden. In diesem Blogbeitrag findest du meine nützliche Tools für dein Life Sciences Studium. Dabei wirst du super Freude mit diesem schlanken, hochmodernen Aluminiumblock bekommen.
+Ein leistungsfähiger Notbook eignet sich für das Life Sciences Studium sehr! Es steigert die Produktivität mit vielen coolen Applicationen, wie die ?????Microsoft Word, Teams, Excel und Powerpoint. Weitere Programme wie zum Beispiel Adobe Acrobat Reader und vieles Mehr.  
+Leider ist es für viele Mac-Benutzer am Anfang schwierig die passenden Programme für das Studium zu finden. In diesem Blogbeitrag findest du meine leicht nützliche Tools für das Life Sciences Studium. Dabei wirst du sehr Freude mit diesem schlanken, hochmodernen Aluminiumblock bekommen.
 
 Hinweis: Ich verwende derzeit ein Modell aus dem Jahr 2020 mit der Version 11.2.3. Die MacBook Pro Serie bietet eine robuste Stabilität und ein MacOS - Erlebnis in einem dünnen, leichten und gut gebauten Paket. 
 Es gibt möglicherweise einige Apps, auf die du nicht zugreifen kannst, wenn du ein älteres Modell oder eine ältere Version von macOS verwendest. 
 
-Es gibt einige wichtige Dinge, die du wissen solltest, von denen ich mir wünschte, dass sie mir jemand gesagt hätte, als ich mein erstes eigenes MacBook bekam. 
-Da meine Dokumente bei OneDrive abgelegt sind, wird der Ordner beim sog. "Finder" - die Dokumentenablage bei MacOs - erstellt.
+Es gibt einige wichtige Dinge, die du wissen solltest, von denen ich mir wünschte, dass sie mir jemand gesagt hätte, als ich mein erstes eigenes MacBook für das Studium bekam. Im Folgenden werden die Tools, die Webbrowser, Programme für die Arbeitsumgebung, Dienstprogramme, und die Entwicklungstools beschrieben. 
 
-Tools / Programme
+### Tools / Programme
 
-bei MacOS haben wir drei Stores, bei dem Software Packages herunterladen können: möglichst open-source (wie microsoft visio)
+Bei MacOS haben wir drei Stores, bei dem Software Packages herunterladen können. Dabei achten wir, dass wir möglichst Open-Source Software Packages beziehen. Es 
 
-Homebrew
-ZHAW Softwarecenter
-App Store
+- Homebrew
+- ZHAW Softwarecenter
+- App Store
+
+### Verbindung herstellen mit VPN
+
+Bevor wir mit dem Downloaden von unseren Software Packages starten können, richten wir das **VPN** (abk. das virtuelle private Netzwerk) ein. Das VPN kann eine sichere Verbindung mittels einem verschlüsselten Tunnel zwischen deinem Laptop und dem Internet herstellen. Es gibt vielerelei Nutzen vom VPN. In erster Linie hast du einen sog. Fernzugriff, auch Remote-Access genannt, und bekommst Anschluss an das lokale Netzwerk deiner Schule. Dies ermöglichst dir Zugriff auf private Ressourcen oder auf wichtige Tools. Das VPN bietet dir gleichzeitg Datenschutz und Sicherheit vor Hackern. Die Anleitung für die Installation des VPN Client für MacUser findest du auf der [ZHAW Service Desk - Website](https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/knowledgeitem?unid=4f3b1c57c259455d96ee3189ee8d1219). 
 
 ### webbrowser:
 
@@ -36,7 +40,7 @@ Firefox
 
 Adobe Acrobat Reader DC
 Zotero
-Microsoft Office (dazu gehören: Microsoft Excel, Microsoft OneNote, Microsoft Outlook, Microsoft PowerPoint, Microsoft Teams and Microsoft Word)
+Microsoft Office (dazu gehören: Microsoft Excel, Microsoft OneNote, Microsoft Outlook, Microsoft PowerPoint, Microsoft Visio, Microsoft Teams and Microsoft Word)
 Zoom.us
 OneDrive
 OmniGraffle (Grafikdarstellung, Studentenlizenz, kostenpflichtig)
@@ -44,7 +48,7 @@ Draw.io (Diagramms.net)
 Cisco Webex Meetings
 Adobe Illustrator (via Creative Cloud)
 
-### Utility
+### Dienstprogramme
 Magnet (kostenpflichtig)
 Cisco AnyConnect VPN
 
@@ -60,10 +64,8 @@ Matlab
 Python
 GitHub Desktop
 
-Verbindung herstellen mit VPN
 
-1. Stellen Sie sicher, dass Sie mit dem Internet verbunden sind. Starten Sie die Anwendung Cisco AnyConnect Secure Mobility Client (VPN).
-2. Tragen Sie die Adresse ras.zhaw.ch ein und klicken Sie auf Connect.
-3. Wählen Sie die Gruppe ZHAW-Edu aus, geben Sie Ihren ZHAW Benutzernamen und Passwort ein und klicken Sie auf OK.
+### References
 
-Sie sind nun mit dem ZHAW Netzwerk verbunden.
+
+
