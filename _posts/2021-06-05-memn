@@ -10,7 +10,7 @@ tags:
 - MacOS
 ---
 
-Ein leistungsstarkes Notebook ist für das Studium in den Life Sciences sehr wichtig! Es steigert die Produktivität mit vielen coolen Applikationen, wie z.B. Microsoft Office, XCode, Adobe Acrobat Reader und vieles mehr.  
+Ein leistungsstarkes Notebook ist für das Studium in den Life Sciences sehr wichtig! Es steigert die Produktivität mit vielen coolen Applikationen, wie z.B. Microsoft Office, Xcode, Adobe Acrobat Reader und vieles mehr.  
 Leider ist es für viele Studierende mit Macs am Anfang schwierig, die passenden Programme für das Studium zu finden und den Rechner einzurichten. In diesem Blogbeitrag findest du meine persönliche Liste mit nützlichen Tools für das Life Sciences Studium. So wirst du noch mehr Freude mit diesem schlanken, hochmodernen Aluminiumblock haben.
 
 ### Einleitung
@@ -28,7 +28,6 @@ Bei MacOS haben wir drei Stores, bei dem Software Packages herunterladen können
 - **Mac App Store**: Die erste Anlaufstelle für Mac Apps
 - **[Homebrew](https://brew.sh/)**: Ist ein freies und offenes Paketverwaltungssystem, das die Installation von Software auf den macOS vereinfacht. Damit lassen sich viele kleine Tools installieren, die das Leben leichter machen. Homebrew hilft dir ausserdem deine Software mit nur einem Befehl auf dem aktuellen Stand zu halten. Es wird aufgrund seiner einfachen Bedienung auf der Kommandozeile und der Verfügbarkeit der meisten Linux-Tools sehr häufig verwendet. Die Anleitung für die Installation ist auf der Hauptseite zu finden und erfolgt auf der Kommandozeile. 
 - **[ZHAW Softwarecenter](https://software.zhaw.ch/)**: Für die ZHAW-Studierenden stehen dort viele Apps für das Studium zur Verfügung.
-- **Mac App Store**: ist der grösste Katalog von Mac Apps
 
 ### Verbindung herstellen mit VPN
 
@@ -38,7 +37,7 @@ Bevor wir mit dem Downloaden unserer Software-Pakete starten können, richten wi
 
 Bei Macs ist Safari der vorinstallierte, schnelle Standard-Webbrowser. Für die meisten Aufgaben funktioniert der Browser ganz gut. Leider gibt es Dienste, welche nicht auf Safari funktionieren. Dann musst du andere Browser verwenden. Ich empfehle dir, diese zwei Webbrowser zu installieren.
 
-- **Google Chrome**: ist der beliebteste Browser und unterstützt alle aktuellen Technologien im WWW. Durch die vielen leistungsstarken Erweiterungen unterstützt der Browser deine Produktivität.
+- **Google Chrome**: Ist der beliebteste Browser und unterstützt alle aktuellen Technologien im WWW. Durch die vielen leistungsstarken Erweiterungen unterstützt der Browser deine Produktivität.
 - **Mozilla Firefox**: Ist die Open Source Alternative zu Chrome. Deshalb konzentriert sich Firefox darauf, Tracker zu blockieren und datenschutzfreundliche Funktionen anzubieten.
 
  Beide Browser haben viele coole Funktionen und gelegentlich funktioniert ein bestimmter Web-Dienst nur mit einem der beiden. Deshalb ist es immer praktisch beide Browser zur Hand zu haben. 
@@ -47,20 +46,20 @@ Bei Macs ist Safari der vorinstallierte, schnelle Standard-Webbrowser. Für die 
 
 Das MacBook ist mit den iWork-Programmen Pages, Numbers und Keynote als Office-Alternative zwar ganz gut ausgestattet. Die Produktivität oder die Effizienz im Team steigern die folgenden Apps weiter: 
 
-- **Adobe Acrobat Reader DC**: ermöglichst das Erstellen, Bearbeiten und Unterzeichnen von PDF-Dokumenten.
-- **Microsoft Office Education**: (Vormals Office 365) Das ist *die* Standardbürosoftware für das Studium, welche aus Excel (Tabellenkalkulation), OneNote (digitale Notizbücher), Outlook (E-Mail-Client mit Kalender und Aufgabenverwaltung), PowerPoint (Präsentation) Teams (Kommunikation), ~~Visio (Diagramme)~~, und Word (Textverarbeitung) besteht. Für Studierende ist Office 365 während des Studiums kostenlos und wird in vielen Lehrveranstaltungen vorausgesetzt. MS Office gibt es auch im App Store. Man muss sich nur mit der ZHAW Studierendenemail anmelden, dann hat man zugriff auf alle Funktionen.
-- **OmniGraffle**: ist eine Möglichkeit die Organisation und Aufbereitung von Daten in übersichtliche Diagramme, Charts und Mindmaps zu illustrieren.
-- **Draw.io**: Ist eine kostenlose Online-Diagrammsoftware zur Erstellung von Flussdiagrammen, Prozessdiagrammen, Organigrammen, und Netzwerkdiagrammen. Es lässt sich am Besten über Homebrew installieren. https://formulae.brew.sh/cask/drawio
-- **Zotero**: Damit verwaltest du deine Literatur in allen deinen Dokumenten und zitierst immer richtig. Zotero installiert man auch am Besten mit Homebrew: https://formulae.brew.sh/cask/zotero
+- **Adobe Acrobat Reader**: Ermöglichst das Erstellen, Bearbeiten und Unterzeichnen von PDF-Dokumenten und ist über Adobe Creativ Cloud Desktop Self-Service Tool aus dem ZHAW Softwarecenter herunterzuladen.
+- **Microsoft Office Education**: (Vormals Office 365) Das ist *die* Standardbürosoftware für das Studium, welche aus Excel (Tabellenkalkulation), OneNote (digitale Notizbücher), Outlook (E-Mail-Client mit Kalender und Aufgabenverwaltung), PowerPoint (Präsentation) Teams (Kommunikation), und Word (Textverarbeitung) besteht. Für Studierende ist Office 365 während des Studiums kostenlos und wird in vielen Lehrveranstaltungen vorausgesetzt. MS Office gibt es auch im App Store. Man muss sich nur mit der ZHAW Studierendenemail anmelden, dann hat man zugriff auf alle Funktionen.
+- **Draw.io**: Ist eine kostenlose Online-Diagrammsoftware zur Erstellung von Flussdiagrammen, Prozessdiagrammen, Organigrammen, und Netzwerkdiagrammen. Es lässt sich am Besten über Homebrew installieren. [Draw.io](https://formulae.brew.sh/cask/drawio)
+- **Zotero**: Damit verwaltest du deine Literatur in allen deinen Dokumenten und zitierst immer richtig. Zotero installiert man auch am Besten mit Homebrew: [Zotero]https://formulae.brew.sh/cask/zotero
 
 ### Kommunikation
 
 Für das Home Office und Remote Learning benutzen wir folgende Programme: 
 
-- **Cisco Webex Meetings**: ist ein Anbieter von Videokonferenzen, IP-Telefonie, Instant-Messaging, Dateiübertragung und Screen-Sharing.
-- **Zoom.us**: bietet Remote-Konferenzdienste, die Videokonferenzen, Online-Besprechungen, Chat und mobile Zusammenarbeit kombinieren
+- **Cisco Webex Meetings**: Ist ein Anbieter von Videokonferenzen, IP-Telefonie, Instant-Messaging, Dateiübertragung und Screen-Sharing.
+- **Zoom.us**: Bietet Remote-Konferenzdienste, die Videokonferenzen, Online-Besprechungen, Chat und mobile Zusammenarbeit kombinieren
 
 Weil manche Lehrveranstaltungen Zoom und manche WebEx verwenden, sollten unbedingt beide Apps auf dem Laptop installiert sein. 
+
 ### Entwicklungstools
 
 Damit du startklar für die Informatik-Kurse bist, brauchst du diese Programme:
@@ -71,6 +70,7 @@ Damit du startklar für die Informatik-Kurse bist, brauchst du diese Programme:
 
   - [R](https://formulae.brew.sh/cask/r)
   - [RStudio](https://formulae.brew.sh/cask/rstudio)
+  
 - **Toggl Track**: Ist eine Zeiterfassungssoftware und verfolgt Zeitblöcke, die optional mit einer Aufgabe, einem Projekt und Tags gekennzeichnet sind. So behältst du deine Studienzeit im Blick. 
 - **Xcode**: Ist die Entwicklungsumgebung, um Programme für MacOS selbst zu entwicklen oder um Apps mit **Homebrew** zu installieren. Xcode braucht zwar extrem viel Platz, sollte aber auf keinem MacBook fehlen.
 
@@ -81,15 +81,15 @@ Damit du startklar für die Informatik-Kurse bist, brauchst du diese Programme:
 ### Referenzen
 
 - Chacon, S., & Long, J. (2021). Git. https://git-scm.com/
-ExpressVPN. (2021). *Was ist ein VPN? Definition und Erklärung | ExpressVPN.* https://www.expressvpn.com/de/what-is-vpn
-Howell, M., Prévost, R., McQuaid, M., & Lalonde, D. (2021). *Der fehlende Paketmanager für macOS — Homebrew.* https://brew.sh/index_de
-Jason, C., & Krokoszinski, J. (2020, Februar 11). *Safari-Alternativen: Fünf Webbrowser für Ihren Mac.* https://computerwelt.at/news/safari-alternativen-fuenf-webbrowser-fuer-ihren-mac/
-Otterstein, B. (2020, Oktober 7). *Das sind die besten Browser für den Mac.* Mac Life. https://www.maclife.de/news/besten-webbrowser-mac-ueberblick-100117749.html
-The MathWorks. (2021). *MATLAB - MathWorks.* https://www.mathworks.com/products/matlab.html
-The R Foundation. (2021). *R: The R Project for Statistical Computing.* https://www.r-project.org/
-Wikipedia. (2021). Xcode. In *Wikipedia.* https://de.wikipedia.org/w/index.php?title=Xcode&oldid=208639285
-Wikipedia. (2021). Homebrew (package manager). In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Homebrew_(package_manager)&oldid=1021968826
-Wikipedia. (2021). Toggl Track. In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Toggl_Track&oldid=1022404728
-Wikipedia. (2021). Virtual private network. In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Virtual_private_network&oldid=1024396847
-Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Microsoft 365.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=edcdeb5efdec44ff9c4234651c68f756&from=40060adb-9f40-44a0-9ad0-36e3c0e5c019
-Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Remote Access.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=798740a82f394fecb2f29ff83024fdf9
+- ExpressVPN. (2021). *Was ist ein VPN? Definition und Erklärung | ExpressVPN.* https://www.expressvpn.com/de/what-is-vpn
+- Howell, M., Prévost, R., McQuaid, M., & Lalonde, D. (2021). *Der fehlende Paketmanager für macOS — Homebrew.* https://brew.sh/index_de
+- Jason, C., & Krokoszinski, J. (2020, Februar 11). *Safari-Alternativen: Fünf Webbrowser für Ihren Mac.* https://computerwelt.at/news/safari-alternativen-fuenf-webbrowser-fuer-ihren-mac/
+- Otterstein, B. (2020, Oktober 7). *Das sind die besten Browser für den Mac.* Mac Life. https://www.maclife.de/news/besten-webbrowser-mac-ueberblick-100117749.html
+- The MathWorks. (2021). *MATLAB - MathWorks.* https://www.mathworks.com/products/matlab.html
+- The R Foundation. (2021). *R: The R Project for Statistical Computing.* https://www.r-project.org/
+- Wikipedia. (2021). Xcode. In *Wikipedia.* https://de.wikipedia.org/w/index.php?title=Xcode&oldid=208639285
+- Wikipedia. (2021). Homebrew (package manager). In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Homebrew_(package_manager)&oldid=1021968826
+- Wikipedia. (2021). Toggl Track. In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Toggl_Track&oldid=1022404728
+- Wikipedia. (2021). Virtual private network. In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Virtual_private_network&oldid=1024396847
+- Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Microsoft 365.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=edcdeb5efdec44ff9c4234651c68f756&from=40060adb-9f40-44a0-9ad0-36e3c0e5c019
+- Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Remote Access.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=798740a82f394fecb2f29ff83024fdf9
