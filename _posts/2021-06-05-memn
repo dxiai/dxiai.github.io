@@ -72,7 +72,7 @@ Damit du startklar für die Informatik-Kurse bist, brauchst du diese Programme:
   - [R](https://formulae.brew.sh/cask/r)
   - [RStudio](https://formulae.brew.sh/cask/rstudio)
 - **Toggl Track**: Ist eine Zeiterfassungssoftware und verfolgt Zeitblöcke, die optional mit einer Aufgabe, einem Projekt und Tags gekennzeichnet sind. So behältst du deine Studienzeit im Blick. 
-- **Xcode**: ist eine Entwicklungsumgebung um Programme für MacOs Benutzer zu entwicklen. 
+- **Xcode**: Ist die Entwicklungsumgebung, um Programme für MacOS selbst zu entwicklen oder um Apps mit **Homebrew** zu installieren. Xcode braucht zwar extrem viel Platz, sollte aber auf keinem MacBook fehlen.
 
 ### Siehe auch
 
