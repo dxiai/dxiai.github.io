@@ -32,7 +32,7 @@ Bei MacOS haben wir drei Stores, bei dem Software Packages herunterladen können
 
 ### Verbindung herstellen mit VPN
 
-Bevor wir mit dem Downloaden von unseren Software Packages starten können, richten wir das virtuelle private Netzwerk (VPN) ein. Das Cisco AnyConnect VPN kann eine sichere Verbindung mittels einem verschlüsselten Tunnel zwischen deinem Laptop und dem Internet herstellen. Es gibt vielerelei Nutzen vom VPN. In erster Linie hast du einen sog. Fernzugriff, auch Remote-Access genannt, und bekommst Anschluss an das lokale Netzwerk deiner Schule. Dies ermöglichst dir Zugriff auf private Ressourcen oder auf wichtige Tools. Das VPN bietet dir gleichzeitg Datenschutz und Sicherheit vor Hackern. Die Anleitung für die Installation des VPN Client für MacUser findest du auf der [ZHAW Service Desk - Website](https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/knowledgeitem?unid=4f3b1c57c259455d96ee3189ee8d1219). 
+Bevor wir mit dem Downloaden unserer Software-Pakete starten können, richten wir das virtuelle private Netzwerk (VPN) ein. Das ZHAW VPN erlaubt es dir auf wichtige Ressourcen der ZHAW auch von zuhause zuzugreifen Das Cisco AnyConnect VPN kann eine sichere Verbindung mittels einem verschlüsselten Tunnel zwischen deinem Laptop und der ZHAW herstellen. Das Internet funktioniert dann wie auf dem Campus. Dies gibt dir Zugriff auf private Ressourcen oder auf wichtige Tools. Die Anleitung für die Installation des VPN Client für MacUser findest du auf der [ZHAW-Service-Desk-Website](https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/knowledgeitem?unid=4f3b1c57c259455d96ee3189ee8d1219). 
 
 ### Webbrowser:
 
@@ -86,6 +86,5 @@ Wikipedia. (2021). Toggl Track. In *Wikipedia.* https://en.wikipedia.org/w/index
 Wikipedia. (2021). Virtual private network. In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Virtual_private_network&oldid=1024396847
 Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Microsoft 365.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=edcdeb5efdec44ff9c4234651c68f756&from=40060adb-9f40-44a0-9ad0-36e3c0e5c019
 Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Remote Access.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=798740a82f394fecb2f29ff83024fdf9
-
 
 
