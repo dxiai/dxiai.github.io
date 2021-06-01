@@ -67,7 +67,10 @@ Damit du startklar für die Informatik-Kurse bist, brauchst du diese Programme:
 
 - **Git / GitHub**: Ist ein freies verteiltes Versionskontrollsystem, um deine Arbeiten schnell und effizient zu sichern.
 - **Matlab**: Ist eine Plattform für Programmierung und numerische Berechnungen zur Analyse von Daten, Entwicklung von Algorithmen und Erstellung von Modellen. Matlab wird vor Allem in Biotechnologie und Chemie eingesetzt.
--**R und RStudio**: ist eine Softwareumgebung für statistische Berechnungen und Grafiken. 
+- **R und RStudio**: Ist eine Softwareumgebung für statistische Berechnungen und Datenvisualisierungen. R und RStudio sind recht umständlich zu installieren. Am Besten installiert man beide Tools über Homebrew: 
+
+  - [R](https://formulae.brew.sh/cask/r)
+  - [RStudio](https://formulae.brew.sh/cask/rstudio)
 - **Toggl Track**: ist eine Zeiterfassungssoftware und verfolgt Zeitblöcke, die optional mit einer Aufgabe, einem Projekt und Tags gekennzeichnet sind. 
 - **Xcode**: ist eine Entwicklungsumgebung um Programme für MacOs Benutzer zu entwicklen. 
 
