@@ -25,7 +25,8 @@ Es gibt möglicherweise einige Apps, auf die du nicht zugreifen kannst, wenn du 
 
 Bei MacOS haben wir drei Stores, bei dem Software Packages herunterladen können. Dabei achten wir, dass wir möglichst Open-Source Software Packages beziehen. 
 
-- **[Homebrew](https://brew.sh/)**: ist eine ist eine freie und open-source Paketverwaltungssystem, das die Installation von Software auf den Betriebssystemen macOS vereinfacht. Hoembrew wird aufgrund seiner Benutzerfreundlichkeit sowie der Integration vom Terminal umfangreich verwendet und eignet sich die Packages auf den aktuellen Stand zu halten. Die Anleitung für die Installation ist auf der Hauptseite zu finden und erfolgt durch ein Terminal. 
+- **Mac App Store**: Die erste Anlaufstelle für Mac Apps
+- **[Homebrew](https://brew.sh/)**: Ist ein freies und offenes Paketverwaltungssystem, das die Installation von Software auf den macOS vereinfacht. Damit lassen sich viele kleine Tools installieren, die das Leben leichter machen. Homebrew hilft dir ausserdem deine Software mit nur einem Befehl auf dem aktuellen Stand zu halten. Es wird aufgrund seiner einfachen Bedienung auf der Kommandozeile und der Verfügbarkeit der meisten Linux-Tools sehr häufig verwendet. Die Anleitung für die Installation ist auf der Hauptseite zu finden und erfolgt auf der Kommandozeile. 
 - **[ZHAW Softwarecenter](https://software.zhaw.ch/)**: Für die ZHAW-Studierenden stehen viele Tools für ihre Arbeit zur Verfügung.
 - **Mac App Store**: ist der grösste Katalog von Mac Apps
 
@@ -85,7 +86,6 @@ Wikipedia. (2021). Toggl Track. In *Wikipedia.* https://en.wikipedia.org/w/index
 Wikipedia. (2021). Virtual private network. In *Wikipedia.* https://en.wikipedia.org/w/index.php?title=Virtual_private_network&oldid=1024396847
 Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Microsoft 365.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=edcdeb5efdec44ff9c4234651c68f756&from=40060adb-9f40-44a0-9ad0-36e3c0e5c019
 Zürcher Hochschule für Angewandte Wissenschaften. (2021). *Self-Service-Portal—Remote Access.* https://servicedesk.zhaw.ch/tas/public/ssp/content/detail/service?unid=798740a82f394fecb2f29ff83024fdf9
-
 
 
 
