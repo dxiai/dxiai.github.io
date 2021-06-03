@@ -49,7 +49,7 @@ Das MacBook ist mit den iWork-Programmen Pages, Numbers und Keynote als Office-A
 - **Adobe Acrobat Reader**: Ermöglichst das Erstellen, Bearbeiten und Unterzeichnen von PDF-Dokumenten und ist über Adobe Creativ Cloud Desktop Self-Service Tool aus dem ZHAW Softwarecenter herunterzuladen.
 - **Microsoft Office Education**: (Vormals Office 365) Das ist *die* Standardbürosoftware für das Studium, welche aus Excel (Tabellenkalkulation), OneNote (digitale Notizbücher), Outlook (E-Mail-Client mit Kalender und Aufgabenverwaltung), PowerPoint (Präsentation) Teams (Kommunikation), und Word (Textverarbeitung) besteht. Für Studierende ist Office 365 während des Studiums kostenlos und wird in vielen Lehrveranstaltungen vorausgesetzt. MS Office gibt es auch im App Store. Man muss sich nur mit der ZHAW Studierendenemail anmelden, dann hat man zugriff auf alle Funktionen.
 - **Draw.io**: Ist eine kostenlose Online-Diagrammsoftware zur Erstellung von Flussdiagrammen, Prozessdiagrammen, Organigrammen, und Netzwerkdiagrammen. Es lässt sich am Besten über Homebrew installieren. [Draw.io](https://formulae.brew.sh/cask/drawio)
-- **Zotero**: Damit verwaltest du deine Literatur in allen deinen Dokumenten und zitierst immer richtig. Zotero installiert man auch am Besten mit Homebrew: [Zotero]https://formulae.brew.sh/cask/zotero
+- **Zotero**: Damit verwaltest du deine Literatur in allen deinen Dokumenten und zitierst immer richtig. Zotero installiert man auch am Besten mit Homebrew: [Zotero](https://formulae.brew.sh/cask/zotero)
 
 ### Kommunikation
 
@@ -81,7 +81,7 @@ Damit du startklar für die Informatik-Kurse bist, brauchst du diese Programme:
 ### Referenzen
 
 - Chacon, S., & Long, J. (2021). Git. https://git-scm.com/
-- ExpressVPN. (2021). *Was ist ein VPN? Definition und Erklärung | ExpressVPN.* https://www.expressvpn.com/de/what-is-vpn
+- ExpressVPN. (2021). *Was ist ein VPN? Definition und Erklärung. ExpressVPN.* https://www.expressvpn.com/de/what-is-vpn
 - Howell, M., Prévost, R., McQuaid, M., & Lalonde, D. (2021). *Der fehlende Paketmanager für macOS — Homebrew.* https://brew.sh/index_de
 - Jason, C., & Krokoszinski, J. (2020, Februar 11). *Safari-Alternativen: Fünf Webbrowser für Ihren Mac.* https://computerwelt.at/news/safari-alternativen-fuenf-webbrowser-fuer-ihren-mac/
 - Otterstein, B. (2020, Oktober 7). *Das sind die besten Browser für den Mac.* Mac Life. https://www.maclife.de/news/besten-webbrowser-mac-ueberblick-100117749.html
