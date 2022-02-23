@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: Daten ablegen auf GitHub
+date: 2022-02-23
+author: Nurdzane Memeti
+tags: 
+- GitHub
+- Studium
+- Data
+---
+
+Einleitung: Während meinem Studium habe ich immens viel an Dokumente gesammelt. Diese Daten gehen dann nach dem Studium verloren, wenn man sie nicht auf dem eigenen Server speichert. Eine Lösung hierzu bietet sich GitHub an. Es ermöglicht deine Daten auf einem Server abzulegen. Wie kann man die Daten später wieder auffinden? - *GitHub*
+
+Die Frage auf Englisch: How to upload documents in GitHub:
+In diesem Artikel finden Sie folgende Informatik - Schlagwörter:
+
+-	Repository = ein Speicherort auf Git
+-	Upload Files = eine Datei hochladen
+-	Commit = etwas verbindliches ausführen 
+-	Branch = ein digitaler Zweig auf der GitHub-Plattform
+
+- Hinzufügen einer Datei zu einem Repository
+- Sie können eine bestehende Datei in ein Repository auf GitHub oder über die Kommandozeile hochladen. 
+
+Dateien, die Sie über einen Browser zu einem Repository hinzufügen, sind auf 25 MB pro Datei begrenzt. Über die Befehlszeile können Sie grössere Dateien mit bis zu 100 MB pro Datei hinzufügen. 
+--Weitere Informationen finden Sie unter "Hinzufügen einer Datei zu einem Repository über die Befehlszeile".
+
+Tipps: 
+- Sie können mehrere Dateien gleichzeitig auf GitHub hochladen.
+- Wenn ein Repository über geschützte Zweige verfügt, können Sie Dateien im geschützten Zweig nicht mit GitHub bearbeiten oder hochladen. Weitere Informationen finden Sie unter "Über geschützte Zweige".
+
+1.	Navigieren Sie auf GitHub.com zur Hauptseite des Repositorys
+2.	Klicken Sie oberhalb der Dateiliste in der Dropdown-Liste Datei hinzufügen auf Dateien hochladen.
+3. Ziehen Sie die Datei oder den Ordner, den Sie in Ihr Repository hochladen möchten, in den Dateibaum.
+4. Geben Sie unten auf der Seite eine kurze, aussagekräftige Commit-Nachricht ein, die die Änderung beschreibt, die Sie an der Datei vorgenommen haben. Sie können den Commit in der Commit-Nachricht mehreren Autoren zuordnen. Weitere Informationen finden Sie unter "Erstellen eines Commits mit mehreren Co-Autoren". https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors
+5. Entscheiden Sie unter den Feldern der Commit-Nachricht, ob Sie Ihren Commit zum aktuellen Zweig (engl. Branch) oder zu einem neuen Zweig (engl. Branch) hinzufügen wollen. Wenn Ihr aktueller Zweig der Standardzweig ist, sollten Sie einen neuen Zweig für Ihre Übergabe erstellen und dann eine Pull-Anfrage erstellen. Weitere Informationen finden Sie unter "Erstellen einer neuen Pull-Anfrage". https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request 
+6. Klicken Sie auf Änderungen committen. 
+
+Referenzen: 
+-	https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
