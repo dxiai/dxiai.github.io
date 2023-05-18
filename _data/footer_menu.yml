@@ -130,12 +130,9 @@
   extra_style: is-hidden-touch is-hidden-desktop-only
 - extra_style: is-hidden-touch is-hidden-desktop-only
   links: 
-  - name: IAS
-    url: https://www.zhaw.ch/ias/
+  - name: ICLS
+    url: https://www.zhaw.ch/icls/
     icon: home
-  # - name: ICLS
-  #  url: https://www.zhaw.ch/icls/
-  #   icon: home
 
 - extra_style: is-hidden-touch is-hidden-desktop-only
   links:
