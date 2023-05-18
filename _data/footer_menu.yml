@@ -35,12 +35,9 @@
 - title: Organisation
   extra_style: is-hidden-widescreen
   links:
-  - name: IAS
-    url: https://www.zhaw.ch/ias/
+  - name: ICLS
+    url: https://www.zhaw.ch/icls/
     icon: home
-  # - name: ICLS
-  #  url: https://www.zhaw.ch/icls/
-  #  icon: home
   - name: ZHAW Datalab 
     url: https://www.zhaw.ch/datalab/
     icon: flask
@@ -84,8 +81,10 @@
 - title: Bachelor of Science
   extra_style: is-hidden-widescreen
   links:
-  # - name: B.Sc. Computational Life Sciences
-  #   url: 
+  - name: B.Sc. Applied Computational Life Sciences
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/applied-digital-life-sciences/
+  - name: B.Sc. Biomedizinische Labordiagnostik
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/biomedizinische-labordiagnostik/
   - name: B.Sc. Facility Management
     url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-facility-management/
   - name: B.Sc. Umweltingenieurwesen
@@ -103,8 +102,10 @@
 
 - extra_style: is-hidden-touch is-hidden-desktop-only
   links:
-  # - name: B.Sc. Computational Life Sciences
-  #   url: 
+  - name: B.Sc. Applied Computational Life Sciences
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/applied-digital-life-sciences/
+  - name: B.Sc. Biomedizinische Labordiagnostik
+    url: https://www.zhaw.ch/de/lsfm/studium/bachelor/biomedizinische-labordiagnostik/
   - name: B.Sc. Facility Management
     url: https://www.zhaw.ch/de/lsfm/studium/bachelor/bachelor-in-facility-management/
   - name: B.Sc. Umweltingenieurwesen
