@@ -81,7 +81,7 @@
 - title: Bachelor of Science
   extra_style: is-hidden-widescreen
   links:
-  - name: B.Sc. Applied Computational Life Sciences
+  - name: B.Sc. ADLS
     url: https://www.zhaw.ch/de/lsfm/studium/bachelor/applied-digital-life-sciences/
   - name: B.Sc. Biomedizinische Labordiagnostik
     url: https://www.zhaw.ch/de/lsfm/studium/bachelor/biomedizinische-labordiagnostik/
@@ -102,7 +102,7 @@
 
 - extra_style: is-hidden-touch is-hidden-desktop-only
   links:
-  - name: B.Sc. Applied Computational Life Sciences
+  - name: B.Sc. ADLS
     url: https://www.zhaw.ch/de/lsfm/studium/bachelor/applied-digital-life-sciences/
   - name: B.Sc. Biomedizinische Labordiagnostik
     url: https://www.zhaw.ch/de/lsfm/studium/bachelor/biomedizinische-labordiagnostik/
